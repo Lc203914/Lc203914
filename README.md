@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Lc203914
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Lc203914/Lc203914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----
+- 👋你好，我是LC.WT
+- 👀我感兴趣的（ECM-Electronic countermeasures）电子对抗
+- 🌱我目前正在学CC+/DOS/DDOS攻击/CGI攻击/SQL攻击/DES加密算法/DES算法/Hash算法/DNA密码技术/packet filtering/Linux/Unix操作系统安全/PKI技术
+- 💞️我想合作做China Computer Federation（CCF）中国计算机学会
+- 📫如何联系到我1803778769@qq.com
+-http://www.apache.org/licenses/
