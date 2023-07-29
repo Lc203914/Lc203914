@@ -1,6 +1,6 @@
-- 👋你好，我是LC.WT
-- 👀我感兴趣的（ECM-Electronic countermeasures）电子对抗
-- 🌱我目前正在学CC+/DOS/DDOS攻击/CGI攻击/SQL攻击/DES加密算法/DES算法/Hash算法/DNA密码技术/packet filtering/Linux/Unix操作系统安全/PKI技术
-- 💞️我想合作做China Computer Federation（CCF）中国计算机学会
-- 📫如何联系到我1803778769@qq.com
+- 👋嗨～，你好，我是：LC.WT
+- 👀我感兴趣：（ECM-Electronic countermeasures）（CCF）
+- 🌱我已学：CC+/DOS/DDOS攻击/CGI攻击/SQL攻击/DES加密算法/DES算法/Hash算法/DNA密码技术/packet filtering/Linux/Unix操作系统安全/PKI技术
+- 💞️入驻：China Computer Federation
+- 📫联系我：1803778769@qq.com
 -http://www.apache.org/licenses/
